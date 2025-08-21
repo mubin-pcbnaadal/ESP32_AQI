@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Display.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=I2C_DRIVER.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=Other.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=Power.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=RTC.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=Sensor.SchDoc|SheetNumber=2
